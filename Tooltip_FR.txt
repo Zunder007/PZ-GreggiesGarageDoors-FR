@@ -15,4 +15,6 @@ Tooltip_FR = {
 	Tooltip_Fancy_Falafel_Door = "Créer une porte de garage... de manière responsable bien sûr",
 	Tooltip_Fancy_xCudi_Door = "Amenez-moi à votre chef...",
 	Tooltip_Fancy_Spiffo_Door = "Tout droit sortie d'usine!",
+
+	Tooltip_DoorFrame_Description = "Description du cadre de porte",
 }
